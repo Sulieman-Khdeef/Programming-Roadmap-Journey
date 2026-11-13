@@ -59,7 +59,7 @@ The roadmap covered several programming languages, tools, and technologies, incl
 
 ## My Philosophy
 
-> Learn, Practice, Understand, Build, and Share.
+> Learn, Understand, Practice, Build, and Share.
 
 This repository reflects my learning process and personal implementations. The explanations and code are written and organized by me. Course materials and third-party resources remain the property of their respective owners and are credited where referenced.
 
